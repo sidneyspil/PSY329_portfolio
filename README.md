@@ -17,3 +17,6 @@ This study examined the differences between men and women on their levels of lif
 
 This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
+**How was this question answered?**
+**What were the findings?**
+**Why is this important?**
