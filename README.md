@@ -3,7 +3,7 @@ Hi there, my name is Sidney, and I am a third-year student in the Psychology Spe
 ## About this page
 This past semester, I took a **social psychology lab course** where I got to do a research project using free-to-use data collected by previous researchers (also known as an open-source data set). This page presents my findings in an accessible way that is understandable to anyone. I hope you enjoy it and learn something!
 ## My Project
-### How do men and women differ in life satisfaction and their level of loneliness within income levels?
+### How do men and women differ in life satisfaction and loneliness within income levels?
 This study examined the differences between men and women on their levels of life satisfaction and loneliness within low, middle, and high-income levels.
 **Why ask this question?**
 <ins>Past research has found that:</ins>  
