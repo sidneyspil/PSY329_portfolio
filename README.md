@@ -15,5 +15,5 @@ This study examined the differences between men and women on their levels of lif
 
 *These findings are very general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*
 
-This brought me to my research, where I specifically looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
+This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
