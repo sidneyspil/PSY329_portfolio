@@ -5,7 +5,9 @@ This past semester, I took a **social psychology lab course** where I got to do 
 ## My Project
 ### How do men and women differ in life satisfaction and loneliness within income levels?
 This study examined the differences between men and women on their levels of life satisfaction and loneliness within low, middle, and high-income levels.
+
 **Why ask this question?**
+
 <ins>Past research has found that:</ins>  
   - Women tend to be more satisfied with life than men (Joshanloo & Jovanovic, 2020).
   - People with higher incomes tend to be more satisfied with life (Joshanloo & Jovanovic, 2020).
