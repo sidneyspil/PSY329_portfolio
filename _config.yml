@@ -1,5 +1,5 @@
 title: Sidney Spilfogel (she/her)
 logo: assets/img/head_shot.jpg
 description: Psychology Specialist Student at The University of Toronto
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
