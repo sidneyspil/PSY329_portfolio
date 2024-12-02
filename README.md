@@ -21,11 +21,13 @@ This brought me to my research, where I looked at sex differences in loneliness 
 Basic description of the data: what dataset is used, sample size, how the data is collected in the original study. Clearly state how the analytic method and variables used match the question.
   - For my project, I used data collected from the **ICPR 2022 National Wellbeing Survey** (Monnat et al., 2024)
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
-  - With the data collected by the survey, I ended up with 7282 participants, 47.8% of which were men and 51.8% were women.
-    - Participants reported their household income
-    - Participants reported their sex
+  - With the data collected by the survey, I ended up with **7282 participants** with the following characteristics
+    - 47.8% men and 51.8% women
+    - 4.7% High income (>$150K), 25.8% Middle income ($60K-$150K), 65.4% Low income (<$60K)
+      - Participants reported their household income and were divided into income levels based on the cutoffs above
+  - Well-being measures
     - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
-    - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency>
+    - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency.
     
 
 
