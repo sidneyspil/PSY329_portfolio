@@ -18,5 +18,12 @@ This study examined the differences between men and women on their levels of lif
 This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
+Basic description of the data: what dataset is used, sample size, how the data is collected in the original study. Clearly state how the analytic method and variables used match the question.
+  - For my project, I used data collected from the **ICPR 2022 National Wellbeing Survey**, which is a survey given to US adults (aged 18-64) via email where responses are kept anonymously (Monnat et al., 2024).
+  - The survey collects demographic and well-being information, such as questions about loneliness and satisfaction with life, and allows anyone to access the data for research purposes.
+  - For survey respondents to qualify for my study, they had to have answered the questions regarding sex, household income, life satisfaction, and loneliness. This left me with 7282 participants, 47.8% of which were men and 51.8% were women.
+
+
+
 **What were the findings?**
 **Why is this important?**
