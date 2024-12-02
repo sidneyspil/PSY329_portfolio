@@ -1,5 +1,5 @@
 ## About This Page
-This past semester, I took a **social psychology lab course** where I got to do a research project using free-to-use data collected by previous researchers (also known as an open-source data set). This page presents my findings in an accessible way that is understandable to anyone. I hope you enjoy it and learn something new!
+This past semester, I took a **social psychology lab course** where I got to do a research project using free-to-use data collected by [Monnat et al. (2024)](https://www.icpsr.umich.edu/web/ICPSR/studies/38964). This page presents my findings in an accessible way that is understandable to anyone. I hope you enjoy it and learn something new!
 
 ## My Project
 ### How do Men and Women Differ in Life Satisfaction and Loneliness within Income Levels?
