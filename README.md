@@ -32,7 +32,7 @@ This study examined the differences between men and women on their levels of lif
 
 <ins>Life Satisfaction</ins>
   - Women were more satisfied with life than men at the low-income level (<$60K USD).
-  - Men and women at the middle-income level ($60K-$150K USD) were equally satisfied with life
+  - Men and women at the middle-income level ($60K-$150K USD) were equally satisfied with life.
   - It looks like men were more satisfied in life than women at the high-income level (>$150K USD), but this difference was not "significant". This is likely because there were fewer participants in the high-income group, so it is more likely this difference is due to chance.
 
 ![Sex differences in life satisfaction graph](/assets/img/satisfaction.jpg)
