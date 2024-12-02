@@ -24,7 +24,7 @@ This brought me to my research, where I looked at sex differences in loneliness 
     - 47.8% men and 51.8% women
     - 4.7% High income (>$150K), 25.8% Middle income ($60K-$150K), 65.4% Low income (<$60K)
       - Participants reported their household income and were divided into income levels based on the cutoffs above
-  - Well-being measures
+        - Well-being measures
     - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
     - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency.
   - Data analysis
@@ -38,7 +38,7 @@ This brought me to my research, where I looked at sex differences in loneliness 
 **Why is this important?**
 
 **My code**
-If you are interested in seeing how I did my analysis, check out my code here!
-https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md 
+If you are interested in seeing how I did my analysis, check out my code at the link [here!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
+
 **References**
 
