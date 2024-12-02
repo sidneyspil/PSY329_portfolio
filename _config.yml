@@ -4,4 +4,6 @@ description: Third-year Psychology Specialist Student at The University of Toron
 show_downloads: false
 github:
   is_project_page: false
+include:
+  - assets/css/style.css
 theme: jekyll-theme-minimal
