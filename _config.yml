@@ -2,8 +2,4 @@ title: Sidney Spilfogel
 logo: assets/img/head_shot.jpg
 description: Third-year Psychology Specialist Student at The University of Toronto
 show_downloads: false
-github:
-  is_project_page: false
-include:
-  - assets/css/style.css
 theme: jekyll-theme-minimal
