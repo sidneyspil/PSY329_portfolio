@@ -13,14 +13,14 @@ This study examined the differences between men and women on their levels of lif
   - People with higher incomes tend to be more satisfied with life [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
   - Men and women tend to be equally lonely [(Maes et al., 2019)](https://doi.org/10.1002/per.2220).
 
-***These findings are very general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*** Bringing me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
+***These findings are general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*** Bringing me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
   - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** (Monnat et al., 2024).
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
   - **7282 participants** with the following characteristics:
     - 47.8% men and 51.8% women
-    - 4.7% High income (>$150K USD), 25.8% Middle income ($60K-$150K USD), 65.4% Low income (<$60K USD)
+    - 4.7% high income (>$150K USD), 25.8% middle income ($60K-$150K USD), 65.4% low income (<$60K USD)
       - Participants reported their household income and were divided into income levels based on the cutoffs above
   - Well-being measures
     - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
@@ -45,13 +45,18 @@ This study examined the differences between men and women on their levels of lif
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
+<ins>To the general public</ins>
 
-These findings show that if we compare the differences in life satisfaction and loneliness between men and women in general, we get an incomplete picture; because these differences are not consistent across income levels. This means that **income impacts life satisfaction and loneliness, and low-income individuals are struggling the most**. 
+These findings show that if we compare the differences in life satisfaction and loneliness between men and women in general, we get an incomplete picture. Due to differences not being consistent across income levels. This means that **income impacts life satisfaction and loneliness, and shows that low-income individuals are struggling the most**. 
 
+<ins>To the psychology field</ins>
+  - These findings provide a deeper understanding of past research that compared men and women in general. 
+  - Due to low-income individuals making up a large portion of the sample (65.4%), overall differences between men and women would be more influenced by differences at the low-income level.
+  - It is possible that in [past research](https://doi.org/10.1007/s00737-019-00998-w) that found women to be more satisfied in life than men, this effect was significantly impacted by low-income individuals if they made up a large portion of the sample. 
   - [Past research](https://doi.org/10.1007/s00737-019-00998-w) that says women are more satisfied with life than men shows an incomplete picture
 Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
 
 **My code**
 
-If you are interested in seeing how I did my analysis, check out my code [here!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
+If you are interested in seeing how I did my analysis, check out [my code!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
 
