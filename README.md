@@ -4,7 +4,7 @@ Hi there, my name is Sidney, and I am a third-year student in the Psychology Spe
 This past semester, I took a **social psychology lab course** where I got to do a research project using free-to-use data collected by previous researchers (also known as an open-source data set). This page presents my findings in an accessible way that is understandable to anyone. I hope you enjoy it and learn something new!
 ## My Project
 ### How do men and women differ in life satisfaction and loneliness within income levels?
-This study examined the differences between men and women on their levels of life satisfaction and loneliness within low, middle, and high-income levels.
+This study examined the differences between men and women on their levels of life satisfaction and loneliness within low-, middle-, and high-income levels.
 
 **Why ask this question?**
 
@@ -28,6 +28,9 @@ Basic description of the data: what dataset is used, sample size, how the data i
   - Well-being measures
     - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
     - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency.
+  - Data analysis
+    - Differences in the average level of each well-being measure for men and women were compared to see if there was a significant sex difference. This was done at each income level for each well-being measure.
+      - For example, the average level of loneliness for men with low income was compared to the level of loneliness for women with low income to see if there was a difference between the two. This was repeated for men and women at the middle- and high-income levels and then for life satisfaction.
     
 
 
