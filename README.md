@@ -9,16 +9,16 @@ This study examined the differences between men and women on their levels of lif
 **Why ask this question?**
 
 <ins>Past research has found that:</ins>  
-  - Women tend to be more satisfied with life than men (Joshanloo & Jovanovic, 2020).
-  - People with higher incomes tend to be more satisfied with life (Joshanloo & Jovanovic, 2020).
-  - Men and women tend to be equally lonely (Maes et al., 2019).
+  - Women tend to be more satisfied with life than men [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
+  - People with higher incomes tend to be more satisfied with life [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
+  - Men and women tend to be equally lonely [(Maes et al., 2019)](https://doi.org/10.1002/per.2220).
 
 *These findings are very general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*
 
 This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
-  - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** 
+  - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** (Monnat et al., 2024).
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
   - **7282 participants** with the following characteristics:
     - 47.8% men and 51.8% women
@@ -48,6 +48,7 @@ This brought me to my research, where I looked at sex differences in loneliness 
 
 **Why is this important?**
 Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
+
 **My code**
 
 If you are interested in seeing how I did my analysis, check out my code [here!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
