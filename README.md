@@ -22,10 +22,10 @@ Basic description of the data: what dataset is used, sample size, how the data i
   - For my project, I used data collected from the **ICPR 2022 National Wellbeing Survey** (Monnat et al., 2024)
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
   - With the data collected by the survey, I ended up with 7282 participants, 47.8% of which were men and 51.8% were women.
-        - Participants reported their household income
-        - Participants reported their sex
-        - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
-        - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency>
+    - Participants reported their household income
+    - Participants reported their sex
+    - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
+    - Loneliness was measured using questions such as *"How often do you feel left out?"* and participants marked a general frequency>
     
 
 
