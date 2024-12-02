@@ -43,23 +43,9 @@ This study examined the differences between men and women on their levels of lif
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
-Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.  
   - **This research is important because** it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown by differences not consistent across income levels, not only showing that income impacts these well-being measures, but also impacts them in a sex-specific way.
-  - ***This research may benefit** mental health professiona
-  - ***This research may be applied**
-
-This knowledge can be brought into day-to-day life, giving a deeper understanding of how sex and income impact people's well-being; with specific emphasis on low-income individuals struggling the most across both of these well-being measures. 
-
-<ins>To the general public</ins>
-
-These findings show that if we compare the differences in life satisfaction and loneliness between men and women in general, we get an incomplete picture. Due to differences not being consistent across income levels. This means that **income impacts life satisfaction and loneliness, and shows that low-income individuals are struggling the most**. 
-
-<ins>To the psychology field</ins>
-  - These findings provide a deeper understanding of past research that compared men and women in general. 
-  - Due to low-income individuals making up a large portion of the sample (65.4%), overall differences between men and women would be more influenced by differences at the low-income level.
-  - It is possible that in [past research](https://doi.org/10.1007/s00737-019-00998-w) that found women to be more satisfied in life than men, this effect was significantly impacted by low-income individuals if they made up a large portion of the sample. 
-  - [Past research](https://doi.org/10.1007/s00737-019-00998-w) that says women are more satisfied with life than men shows an incomplete picture
-
+  - ***This research may benefit** mental health professionals who can get a better understanding of what aspects of well-being an individual may be low on based on their sex and income level, allowing them to make a more informed treatment plan.
+  - ***This research may be applied** to future studies encouraging income to be factored into sex comparisons of well-being to allow for more specific, useful results. 
 
 **My code**
 
