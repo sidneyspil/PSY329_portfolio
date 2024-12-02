@@ -9,15 +9,15 @@ This study examined the differences between men and women on their levels of lif
 
 <ins>Past research has found that:</ins>  
   - Women tend to be more satisfied with life than men [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
-  - People with higher incomes tend to be more satisfied with life [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
+  - People with higher income tend to be more satisfied with life [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
   - Men and women tend to be equally lonely [(Maes et al., 2019)](https://doi.org/10.1002/per.2220).
 
-***These findings are general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*** Bringing me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
+***These findings are general, so more research is needed to understand how sex and income work together to impact these measures of well-being.*** Bringing me to my current research, where I looked at sex differences in loneliness and life satisfaction within specific income levels. 
 
 **How was this question answered?**
   - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** (Monnat et al., 2024).
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
-  - **7282 participants** with the following characteristics:
+  - The sample used in my study consisted of **7282 participants** with the following characteristics:
     - 47.8% men and 51.8% women
     - 4.7% high income (>$150K USD), 25.8% middle income ($60K-$150K USD), 65.4% low income (<$60K USD)
       - Participants reported their household income and were divided into income levels based on the cutoffs above
