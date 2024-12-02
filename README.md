@@ -32,11 +32,13 @@ This brought me to my research, where I looked at sex differences in loneliness 
       - For example, the average level of loneliness for men with low income was compared to the average level of loneliness for women with low income to see if there was a difference between the two. This was repeated for men and women at the middle- and high-income levels and then for life satisfaction.
     
 **What were the findings?**
+
 <ins>Life Satisfaction</ins>
   - Women were more satisfied in life than men at the low-income level (<$60K USD).
   - Men and women at the middle-income level ($60K-$150K USD) were equally satisfied with life
   - It looks like men were more satisfied in life than women at the high-income level (>$150K USD), but this difference was not "significant". This is likely because there were fewer participants in the high-income group, so it is more likely this difference is due to chance.
 ![Sex differences in life satisfaction graph](/assets/img/satisfaction.jpg)
+
 <ins>Loneliness</ins>
   - Men and women at the low-income level (<$60K USD) were equally lonely.
   - At the middle- ($60K-$150K USD) and high-income (>$150K USD)levels, women were lonelier than men.
