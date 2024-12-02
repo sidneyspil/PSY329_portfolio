@@ -18,8 +18,8 @@ This study examined the differences between men and women on their levels of lif
   - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** (Monnat et al., 2024).
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
   - Using the survey data I was able to collect my sample which consisted of **7282 participants** with the following characteristics:
-    - 47.8% men and 51.8% women
-    - 4.7% high income (>$150K USD), 25.8% middle income ($60K-$150K USD), 65.4% low income (<$60K USD)
+    - 47.8% Men, 51.8% Women
+    - 4.7% High-income (>$150K USD), 25.8% Middle-income ($60K-$150K USD), 65.4% Low-income (<$60K USD)
       - Participants reported their household income and were divided into income levels based on the cutoffs above
   - Well-being measures
     - Life satisfaction was measured using statements such as *“I am satisfied with my life”* and participants marked how much they agreed.
