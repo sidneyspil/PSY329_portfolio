@@ -44,14 +44,9 @@ This study examined the differences between men and women on their levels of lif
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
-  - **This research is important because** it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown by differences not consistent across income levels, not only showing that income impacts these well-being measures, but also impacts them in a sex-specific way.
-  - **This research may benefit** mental health professionals who can get a better understanding of what aspects of well-being an individual may be low on based on their sex and income level, allowing them to make a more informed treatment plan.
-  - **This research may be applied** to future studies encouraging income to be factored into sex comparisons of well-being to allow for more specific, useful results. 
-
-
-
-
-
+  - **This research is important because** it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown via inconsistent differences across income levels, not only showing that income impacts these well-being measures, but impacts them in a sex-specific way.
+  - **This research may benefit** mental health professionals who can get a better understanding of what aspects of well-being an individual may be low on based on their sex and income level, allowing them to create a more informed treatment plan.
+  - **This research may be applied** to future studies as evidence as to why income should be factored into sex comparisons of well-being, allowing for more specific, useful results. 
 
 *If you are interested in seeing how I did my data analysis, check out [my code!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)*
 
