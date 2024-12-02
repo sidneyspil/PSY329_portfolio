@@ -18,7 +18,7 @@ This study examined the differences between men and women on their levels of lif
 This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
-  - I used data collected from the **[ICPSR 2022 National Wellbeing Survey]**(https://www.icpsr.umich.edu/web/ICPSR/studies/38964) 
+  - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** 
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
   - **7282 participants** with the following characteristics:
     - 47.8% men and 51.8% women
