@@ -13,9 +13,7 @@ This study examined the differences between men and women on their levels of lif
   - People with higher incomes tend to be more satisfied with life [(Joshanloo & Jovanovic, 2020)](https://doi.org/10.1007/s00737-019-00998-w).
   - Men and women tend to be equally lonely [(Maes et al., 2019)](https://doi.org/10.1002/per.2220).
 
-*These findings are very general, so more research is needed to understand how income and sex work together to impact these measures of well-being.*
-
-This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
+*These findings are very general, so more research is needed to understand how income and sex work together to impact these measures of well-being.* Bringing me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
   - I used data collected from the **[ICPSR 2022 National Wellbeing Survey](https://www.icpsr.umich.edu/web/ICPSR/studies/38964)** (Monnat et al., 2024).
@@ -47,11 +45,13 @@ This brought me to my research, where I looked at sex differences in loneliness 
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
+
+These findings show that if we compare the differences in life satisfaction and loneliness between men and women in general, we get an incomplete picture. Due to differences between men and women not being inconsistent across income levels. Telling us that **income impacts life satisfaction and loneliness where low-income individuals are struggling the most**. 
+
+  - [Past research](https://doi.org/10.1007/s00737-019-00998-w) that says women are more satisfied with life than men shows an incomplete picture
 Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
 
 **My code**
 
 If you are interested in seeing how I did my analysis, check out my code [here!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
-
-**References**
 
