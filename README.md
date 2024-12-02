@@ -1,7 +1,7 @@
 ## About This Page
 This past semester, I took a **social psychology lab course** where I got to do a research project using free-to-use data collected by previous researchers (also known as an open-source data set). This page presents my findings in an accessible way that is understandable to anyone. I hope you enjoy it and learn something new!
 
-## How Do Women and Men Differ in Life Satisfaction and Loneliness within Income Levels?
+## How Do Men and Women Differ in Life Satisfaction and Loneliness within Income Levels?
 This study examined the differences between men and women on their levels of life satisfaction and loneliness within low-, middle-, and high-income levels.
 
 **Why ask this question?**
@@ -43,9 +43,12 @@ This study examined the differences between men and women on their levels of lif
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
-Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
-This research is important because it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown by differences not consistent across income levels, not only showing that income impacts these well-being measures, but also impacts them in a sex-specific way. 
-  - These findings may benefit the average person by giving them a deeper understanding of how 
+Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.  
+  - **This research is important because** it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown by differences not consistent across income levels, not only showing that income impacts these well-being measures, but also impacts them in a sex-specific way.
+  - ***This research may benefit** mental health professiona
+  - ***This research may be applied**
+
+This knowledge can be brought into day-to-day life, giving a deeper understanding of how sex and income impact people's well-being; with specific emphasis on low-income individuals struggling the most across both of these well-being measures. 
 
 <ins>To the general public</ins>
 
