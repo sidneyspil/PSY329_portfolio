@@ -18,9 +18,9 @@ This study examined the differences between men and women on their levels of lif
 This brought me to my research, where I looked at sex differences in loneliness and life satisfaction within specific income levels to get a deeper understanding. 
 
 **How was this question answered?**
-  - For my project, I used data collected from the **ICPR 2022 National Wellbeing Survey** (Monnat et al., 2024)
+  - I used data collected from the **ICPR 2022 National Wellbeing Survey** (Monnat et al., 2024)
   - This survey was given to US adults (aged 18-64) via email and all responses were kept anonymous. 
-  - With the data collected by the survey, I ended up with **7282 participants** with the following characteristics:
+  - **7282 participants** with the following characteristics:
     - 47.8% men and 51.8% women
     - 4.7% High income (>$150K), 25.8% Middle income ($60K-$150K), 65.4% Low income (<$60K)
       - Participants reported their household income and were divided into income levels based on the cutoffs above
@@ -31,13 +31,13 @@ This brought me to my research, where I looked at sex differences in loneliness 
     - Differences in the average level of each well-being measure for men and women were compared to see if there was a significant sex difference. This was done at each income level for each well-being measure.
       - For example, the average level of loneliness for men with low income was compared to the average level of loneliness for women with low income to see if there was a difference between the two. This was repeated for men and women at the middle- and high-income levels and then for life satisfaction.
     
-**What was found?**
+**What were the findings?**
+![Sex differences in life satisfaction graph](/assets/img/satisfaction.jpg)
+![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
+
 **Why is this important?**
+
 **My code**
+
 **References**
 
-
-
-**What were the findings?**
-
-**Why is this important?**
