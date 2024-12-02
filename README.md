@@ -38,6 +38,7 @@ This brought me to my research, where I looked at sex differences in loneliness 
 **Why is this important?**
 
 **My code**
-
+If you are interested in seeing how I did my analysis, check out my code here!
+https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md 
 **References**
 
