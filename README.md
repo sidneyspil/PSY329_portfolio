@@ -45,6 +45,10 @@ This study examined the differences between men and women on their levels of lif
 ![Sex differences in loneliness  graph](/assets/img/lonely.jpg)
 
 **Why is this important?**
+Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
+This research is important because it shows that looking at general differences in life satisfaction and loneliness between men and women gives an incomplete perspective. This was shown by differences not consistent across income levels, not only showing that income impacts these well-being measures, but also impacts them in a sex-specific way. 
+  - These findings may benefit the average person by giving them a deeper understanding of how 
+
 <ins>To the general public</ins>
 
 These findings show that if we compare the differences in life satisfaction and loneliness between men and women in general, we get an incomplete picture. Due to differences not being consistent across income levels. This means that **income impacts life satisfaction and loneliness, and shows that low-income individuals are struggling the most**. 
@@ -54,7 +58,7 @@ These findings show that if we compare the differences in life satisfaction and 
   - Due to low-income individuals making up a large portion of the sample (65.4%), overall differences between men and women would be more influenced by differences at the low-income level.
   - It is possible that in [past research](https://doi.org/10.1007/s00737-019-00998-w) that found women to be more satisfied in life than men, this effect was significantly impacted by low-income individuals if they made up a large portion of the sample. 
   - [Past research](https://doi.org/10.1007/s00737-019-00998-w) that says women are more satisfied with life than men shows an incomplete picture
-Explain why this research is important, who it might benefit, and how people in the applied setting might be able to use your findings. Claims are based on the results and the nature of the data, and not overly generalized.
+
 
 **My code**
 
