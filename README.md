@@ -48,7 +48,8 @@ This study examined the differences between men and women on their levels of lif
   - ***This research may benefit** mental health professionals who can get a better understanding of what aspects of well-being an individual may be low on based on their sex and income level, allowing them to make a more informed treatment plan.
   - ***This research may be applied** to future studies encouraging income to be factored into sex comparisons of well-being to allow for more specific, useful results. 
 
-**My code**
 
-If you are interested in seeing how I did my analysis, check out [my code!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)
+
+
+*If you are interested in seeing how I did my data analysis, check out [my code!](https://github.com/sidneyspil/myproject/blob/a86bca1698269fe0ad22a81311facfc4f70c1949/Dataset-analysis.md)*
 
